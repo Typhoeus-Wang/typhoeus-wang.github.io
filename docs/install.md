@@ -15,7 +15,7 @@ or change the theme of [an existing site](#existing-sites).
 
 ## New sites
 For new sites, the best way to get started with Hydejack is via the Starter Kit. 
-It comes with a documented config file and example content that gets you started quickly.
+It comes with a documented config file and example content that gets you started quickly. This is some edits.
 
 If you have a GitHub account, fork the [Hydejack Starter Kit][hsc] repository. 
 Otherwise [download the Starter Kit][src] and unzip them somewhere on your machine.
