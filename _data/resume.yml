@@ -65,12 +65,12 @@ volunteer:
     highlights:
       - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
+  - institution: "University of Washington, Seattle"
+    area: "Computer Science and Applied Computational Mathematical Science"
+    studyType: "Bachelor of Science"
+    startDate: "2020-09-23"
+    endDate: "2024-06-07"
+    gpa: "3.9"
     courses:
       - "DB1101 - Basic SQL"
       - "CS2011 - Java Introduction"
