@@ -2,12 +2,12 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
+  name: "Qirui(William) Wang"
+  label: "ML/AI Researcher"
   picture: "https://via.placeholder.com/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  email: "qiruiwangwilliam@gmail.com"
+  phone: "(206) 849-2864"
+  website: "https://typhoeus-wang.github.io/"
   summary: >
     Richard hails from Tulsa.
     He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
@@ -19,18 +19,15 @@ basics:
     He could tell you about it, but THAT would NOT be a “length-limited” conversation!
     Open `_data/resume.yml` to edit this text.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
+    address: "4550 11th Ave NE"
+    postalCode: "WA 98105"
+    city: "Seattle"
     countryCode: "US"
-    region: "California"
+    region: "Washington"
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Qirui Wang"
+      url: "https://www.linkedin.com/in/qrw-160509207/"
 work:
   - company: "Pied Piper"
     position: "CEO/President"
