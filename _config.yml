@@ -44,8 +44,15 @@ author:
   # Used by `jekyll-feed`:
   name:                Qirui Wang
   email:               qiruiwangwilliam@gmail.com
+  about: |
+    Hi, I'm Qirui Wang
+
+    I'm graduates from UW CSE with double majors in Computer Science and Data Science
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
+  social:
+    github: typhoeus-wang
+    instagram: william_qiruiwang
 
 # Add links to the sidebar.
 menu:
