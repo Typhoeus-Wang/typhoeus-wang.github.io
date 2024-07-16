@@ -124,6 +124,8 @@ resume:
   email:               Email
   phone:               Phone
   website:             Website
+  research:            Research
+  research_title:      <!--position--> at <!--company-->
   work:                Experience
   work_title:          <!--position--> at <!--company-->
   highlights:          Highlights
