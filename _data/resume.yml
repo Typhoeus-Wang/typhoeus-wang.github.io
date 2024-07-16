@@ -91,6 +91,18 @@ work:
       - "Manifold Learning Examples"
       - "Dimension reduction alrithms: Locality Linear Embedding, Spectral Embedding, UMAP, T-SNE, megaman"
 volunteer:
+  - organization: "University of Washington, Seattle"
+    position: "Undergraduate Teaching Assistant"
+    website: "https://www.cenuw.com/"
+    startDate: "2022-09-28"
+    endDate: "2014-06-07"
+    summary: "Teaching assistant for Introduction to Database Systems"
+    highlights:
+      - "Autumn 2022: TA for CSE414 (for non-CSE majors) with Ryan Maas"
+      - "Winter 2023: TA for CSE344 (for CSE majors) with Ryan Maas"
+      - "Autumn 2022: TA for CSE414 (for non-CSE majors) with Ryan Maas"
+      - "Winter 2024: TA for CSE414 (for non-CSE majors) with Ryan Maas"
+      - "Spring 2024: TA for CSE414 (for non-CSE majors) with Dan Suciu"
   - organization: "China Entrepreneur Network, UW"
     position: "Event Planning Director"
     website: "https://www.cenuw.com/"
@@ -101,7 +113,20 @@ volunteer:
     prepare our members for both traditional career recruiting and future entrepreneurship. We welcome students with intellectual curiosity 
     and global insights to join our community. You will be challenged with real industry projects and surprised by your growing network."
     highlights:
+      - "Organized 4 signiture events as event planning lead about students' career development and job searchin"
       - "Member of Mambership Program 2021-2022"
+  - organization: "TBA - UW Technology and Business Association"
+    position: "Public Relation Officer"
+    website: "https://www.cenuw.com/"
+    startDate: "2021-03-28"
+    endDate: "2014-06-07"
+    summary: "Through our expansive network, we connect our members with global resources, investors, and fellow entrepreneurs.
+    We partner with the Foster School of Business, the Center for Entrepreneurship, business associations, and career service companies to 
+    prepare our members for both traditional career recruiting and future entrepreneurship. We welcome students with intellectual curiosity 
+    and global insights to join our community. You will be challenged with real industry projects and surprised by your growing network."
+    highlights:
+      - "Public Relation role for Intern Project: Your Info Guide"
+      - "Public Relation role for BizTech 2022 Forum: MetaVerse"
 education:
   - institution: "University of Washington, Seattle"
     area: "Computer Science and Applied Computational Mathematical Science"
@@ -127,28 +152,42 @@ publications:
     based on the speaker embedding of one of its participants. To accomplish this, we propose leveraging temporal patterns inherent in human conversations, 
     particularly turn-taking dynamics, which uniquely characterize speakers engaged in conversation and distinguish them from interfering speakers and noise."
 skills:
-  - name: "Web Development"
+  - name: "Machine Learning"
     level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
+      - "Scikit-learn"
+      - "Numpy"
+      - "Pandas"
+      - "matplotlib"
+      - "Decision Trees"
+      - "Linear Models"
+  - name: "Deep Learning"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "PyTorch"
+      - "TensorFlow"
+      - "Neural Networks"
+      - "Transformer Networks"
+      - "Mamba Networks"
 languages:
+  - language: "Mandarin"
+    fluency: "Native speaker"
   - language: "English"
     fluency: "Native speaker"
 interests:
-  - name: "Wildlife"
+  - name: "Cooking"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      - "Chinese Cuisine"
+      - "Baking"
+  - name: "Music"
+    keywords:
+      - "Piano Performance"
+      - "Jazz"
+      - "RnB"
+      - "Pop"
+
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.
