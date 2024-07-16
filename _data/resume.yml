@@ -22,7 +22,7 @@ basics:
     - network: "LinkedIn"
       username: "Qirui Wang"
       url: "https://www.linkedin.com/in/qrw-160509207/"
-research:
+work:
   - company: "Spoken Language System, MIT"
     position: "Visiting Researcher"
     website: "https://groups.csail.mit.edu/sls/"
