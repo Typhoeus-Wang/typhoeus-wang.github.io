@@ -35,7 +35,7 @@ work:
   - company: "Mobile Intelligence Lab, University of Washington, Seattle"
     position: "Researcher Assistant"
     website: "https://netlab.cs.washington.edu/"
-    startDate: "2013-12-01"
+    startDate: "2023-09-01"
     endDate: ""
     summary: >
       Working on speech processing projects including target speaker extraction, target conversation extraction and speech translation.
@@ -44,18 +44,25 @@ work:
       - "In Progress. Real-time Spatial Speech-to-speech Translation"
       - "In Progress. Context-aware Target Speaker Extraction"
       - "Target Conversation Extraction: Source separation using turn-taking dynamics"
-  - company: "Mobile Intelligence Lab, University of Washington, Seattle"
+  - company: "Lilian Ratliff's Group, University of Washington, Seattle"
     position: "Researcher Assistant"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
-    endDate: ""
+    website: "https://faculty.washington.edu/ratliffl/"
+    startDate: "2022-9-30"
+    endDate: "2024-04-15"
     summary: >
-      Working on speech processing projects including target speaker extraction, target conversation extraction and speech translation.
-      Advised by Tuochao Chen and Shyam Gollakota
+      Working on human-machine coadaption. Advised by Ben Chasnov, Jason Isa, Sam Burden, and Lilian Ratliff
     highlights:
-      - "In Progress. Real-time Spatial Speech-to-speech Translation"
-      - "In Progress. Context-aware Target Speaker Extraction"
-      - "Target Conversation Extraction: Source separation using turn-taking dynamics"
+      - "Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game"
+  - company: "Gemoetric Data Analysis, University of Washington, Seattle"
+    position: "Researcher Assistant"
+    website: "https://sites.stat.washington.edu/mmp/"
+    startDate: "2022-06-07"
+    endDate: "2023-01-20"
+    summary: >
+      Working on Manifold Learning and nonlinear dimension reduction algorithms. Advised by Marina Meila
+    highlights:
+      - "Manifold Learning Examples"
+      - "Dimension reduction alrithms: Locality Linear Embedding, Spectral Embedding, UMAP, T-SNE, megaman"
 volunteer:
   - organization: "CoderDojo"
     position: "Teacher"
