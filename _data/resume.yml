@@ -107,7 +107,7 @@ volunteer:
     position: "Event Planning Director"
     website: "https://www.cenuw.com/"
     startDate: "2021-03-28"
-    endDate: "2014-06-07"
+    endDate: "2024-06-07"
     summary: "Through our expansive network, we connect our members with global resources, investors, and fellow entrepreneurs.
     We partner with the Foster School of Business, the Center for Entrepreneurship, business associations, and career service companies to 
     prepare our members for both traditional career recruiting and future entrepreneurship. We welcome students with intellectual curiosity 
@@ -132,7 +132,7 @@ education:
     area: "Computer Science and Applied Computational Mathematical Science"
     studyType: "Bachelor of Science"
     startDate: "2020-09-23"
-    endDate: "2024-06-07"
+    endDate: "2022-06-07"
     gpa: "3.9"
     courses:
       - "DB1101 - Basic SQL"
@@ -166,9 +166,9 @@ skills:
     keywords:
       - "PyTorch"
       - "TensorFlow"
-      - "Neural Networks"
-      - "Transformer Networks"
-      - "Mamba Networks"
+      - "Natural Language Processing"
+      - "Speech Processing"
+      - "Multimodal Learning"
 languages:
   - language: "Mandarin"
     fluency: "Native speaker"
