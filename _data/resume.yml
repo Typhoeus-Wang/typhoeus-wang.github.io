@@ -44,6 +44,33 @@ work:
       - "In Progress. Real-time Spatial Speech-to-speech Translation"
       - "In Progress. Context-aware Target Speaker Extraction"
       - "Target Conversation Extraction: Source separation using turn-taking dynamics"
+  - company: "NetUp"
+    position: "Part-Time Machine Learning Engineer"
+    website: "https://www.netup.social/en"
+    startDate: "2023-10-12"
+    endDate: ""
+    summary: >
+      Netup is a career networking app that helps users build career connections in a more sincere, fun, and personalized way.
+    highlights:
+      - "Built a web scraper using beautifulsoup and scraped 10000 industry and company information for data generation"
+      - "Lead and design a recommendation system (idea from TinVec) and tested it using synthetic user history data"
+      - "Built an ETL to transfer user interaction data stored in DynamoDB and EC2 to prepared periodic training dataset"
+      - "Deployed recommendation system to Sagemaker and employed Lambda to trigger model update"
+  - company: "USAFacts"
+    position: "Software Engineering Internship"
+    website: "https://usafacts.org/"
+    startDate: "2023-06-15"
+    endDate: "2023-09-08"
+    summary: >
+      A leading destination for those who seek unbiased facts about our government. 
+    highlights:
+      - "Built a Retrieval Argmented Generation system with government data through ChatGPT"
+      - "Conducted research, drafted design document using Confluence, and wrote timeline and tickets on Jira"
+      - "Developed API endpoints using FastAPI to upsert document and retrieve documents to vector database"
+      - "Utilized Cognitive Search as vector database and stored vectorized documents using OpenAI's embedding model"
+      - "Deployed API to Azure with Docker and used Github actions as CI/CD to support continuous deployment"
+      - "Scraped text data over 1000 webpages using BeautifulSoup and deployed serverless function to Azure Function"
+      - "Stored the scraped data in PostgreSQL and populate Cognitive Search vector database for QA in batches"
   - company: "Lilian Ratliff's Group, University of Washington, Seattle"
     position: "Researcher Assistant"
     website: "https://faculty.washington.edu/ratliffl/"
