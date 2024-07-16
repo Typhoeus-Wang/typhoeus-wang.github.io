@@ -41,6 +41,8 @@ layout: base
     <div class="column column-3-5">
       {% for sec in l_col %}
         {% case sec %}
+        {% when 'research' %}
+          {% include pro/resume/research.html %}
         {% when 'work' %}
           {% include pro/resume/work.html %}
         {% when 'volunteer' %}
