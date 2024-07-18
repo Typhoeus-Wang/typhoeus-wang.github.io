@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: welcome
 title: Welcome
+cover: true
 sitemap: false
 ---
 
