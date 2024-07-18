@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Welcome
 cover: true
 sitemap: false
