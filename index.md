@@ -2,8 +2,16 @@
 layout: about
 title: Welcome
 cover: true
-# sitemap: false
+sitemap: false
+
+selected_posts:
+  - _posts/2017-05-03-javascripten.md
+  - /blog/2012-02-07-example-content/
+posts_page: /blog/
+featured: false
 ---
+
+<!--author-->
 
 Thank you for buying the PRO version of Hydejack! 🎉
 
