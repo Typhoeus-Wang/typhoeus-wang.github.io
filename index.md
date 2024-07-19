@@ -17,8 +17,6 @@ featured: false
 
 Welcome to my site!
 
-<!--posts-->
-
 That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
 
 ## First Steps, for real
