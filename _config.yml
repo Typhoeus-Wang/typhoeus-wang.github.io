@@ -48,8 +48,8 @@ author:
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
   social:
-    github: typhoeus-wang
-    instagram: william_qiruiwang
+    github:            typhoeus-wang
+    instagram:         william_qiruiwang
     linkedin:          qrw-160509207
 
 # Add links to the sidebar.
@@ -95,7 +95,7 @@ paginate_path:         /blog/:num/
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          assets/img/IMG_1415.jpg
+accent_image:          assets/img/cover.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
