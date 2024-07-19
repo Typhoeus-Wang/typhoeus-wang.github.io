@@ -56,6 +56,8 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
+  - title:             Research
+    url:               /research/
   - title:             Projects
     url:               /projects/
   - title:             Résumé*
@@ -307,6 +309,10 @@ collections:
     output:            true
 
   projects:
+    permalink:         /projects/:path/
+    output:            true
+  
+  research:
     permalink:         /projects/:path/
     output:            true
 
