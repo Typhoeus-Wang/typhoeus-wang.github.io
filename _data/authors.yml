@@ -14,18 +14,18 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            /assets/img/author_128x128.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            /assets/img/author_128x128.jpg
+      2x:            /assets/img/author_256x256.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          typhoeus-wang
+    github:            typhoeus-wang
     email:             qiruiwangwilliam@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -37,7 +37,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       william_qiruiwang
+    instagram:         william_qiruiwang
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
