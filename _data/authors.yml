@@ -8,9 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Qirui Wang.
+    Hayyy, nice to meet you on my site!
 
-    A recent graduate from UW, studying Computer Science and Data Science
+    My name is Qirui(William) Wang, a recent graduate at the University of Washington majoring in computer science,
+    and applied computational mathematical science, data science and statistics
 
   # This photo will be used in the about section
   picture:
