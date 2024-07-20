@@ -1,11 +1,11 @@
 ---
 layout: project
-title: '@qwtel'
-caption: How I use Hydejack on my personal site.
+title: 'Target Conversation Extraction'
+caption: Target Conversation Extraction, source separation using tuyn-taking dynamics
 description: >
   This is how I use Hydejack on my personal site. 
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2020
+date: 7 Jun 2024
 image: 
   path: /assets/img/projects/qwtel.jpg
   srcset: 
@@ -14,7 +14,7 @@ image:
     480w:  /assets/img/projects/qwtel@0,25x.jpg
 links:
   - title: Link
-    url: https://qwtel.com/
+    url: https://tce.cs.washington.edu/
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
