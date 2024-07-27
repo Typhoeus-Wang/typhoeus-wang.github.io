@@ -7,11 +7,11 @@ description: >
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
 date: 7 Jun 2024
 image: 
-  path: /assets/img/projects/qwtel.jpg
+  path: /assets/img/research/manifold.png
   srcset: 
-    1920w: /assets/img/projects/qwtel.jpg
-    960w:  /assets/img/projects/qwtel@0,5x.jpg
-    480w:  /assets/img/projects/qwtel@0,25x.jpg
+    1920w: /assets/img/research/manifold.png
+    960w:  /assets/img/research/manifold05.png
+    480w:  /assets/img/research/manifold025.png
 links:
   - title: Link
     url: https://tce.cs.washington.edu/
