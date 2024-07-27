@@ -8,11 +8,11 @@ description: >
   changes within a game theoretic model?
 date: 7 Apr 2024
 image: 
-  path: /assets/img/projects/qwtel.jpg
+  path: /assets/img/research/effectofadapation.png
   srcset: 
-    1920w: /assets/img/projects/qwtel.jpg
-    960w:  /assets/img/projects/qwtel@0,5x.jpg
-    480w:  /assets/img/projects/qwtel@0,25x.jpg
+    1920w: /assets/img/research/effectofadapation.jpg
+    960w:  /assets/img/research/effectofadapation05.jpg
+    480w:  /assets/img/research/effectofadapation02.jpg
 links:
   - title: Link
     url: https://www.ece.uw.edu/wp-content/uploads/2024/04/Research-Showcase-2024-Poster-Jason-Isa.pdf
