@@ -4,9 +4,6 @@ title: Welcome
 cover: true
 sitemap: false
 
-selected_projects:
-  - /projects/tce/
-projects_page: research.md
 featured: false
 ---
 
@@ -22,7 +19,8 @@ Welcome to my site!
 ## Introduction
 
 In my undergraduate study at UW, I'm fortunate to be advised by Shyam Gollakota. My main reseasrch interests include
-speech/audio 
+speech/audio processing (end-to-end speech translation, source separation, speech representation learning), self-supervised learning, 
+NLP especially LLM, as well as recommendation system.
 
 Start by reading the [Documentation]{:.heading.flip-title}.
 Specifically, the chapters below should be relevant now:
