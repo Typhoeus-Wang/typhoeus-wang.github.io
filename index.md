@@ -1,5 +1,5 @@
 ---
-layout: welcome
+layout: about
 title: Welcome
 cover: true
 sitemap: false
@@ -9,7 +9,7 @@ selected_projects：
 featured: false
 ---
 
-<!--projects-->
+<!--research-->
 
 
 
