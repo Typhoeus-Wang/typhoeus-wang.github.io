@@ -3,9 +3,9 @@ layout: project
 title: 'Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game'
 caption: Target Conversation Extraction, source separation using tuyn-taking dynamics
 description: >
-Without changing the AI agent’s adaptive algorithm, can we influence the Human-AI
-game outcome by changing the Human’s feedback information and model these behavior
-changes within a game theoretic model?
+  Without changing the AI agent’s adaptive algorithm, can we influence the Human-AI
+  game outcome by changing the Human’s feedback information and model these behavior
+  changes within a game theoretic model?
 date: 7 Apr 2024
 image: 
   path: /assets/img/projects/qwtel.jpg
