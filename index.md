@@ -18,6 +18,3 @@ Welcome to my site!
 In my undergraduate study at UW, I'm fortunate to be advised by Shyam Gollakota. My main reseasrch interests include
 speech/audio processing (end-to-end speech translation, source separation, speech representation learning), self-supervised learning, 
 NLP especially LLM, as well as recommendation system.
-
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
