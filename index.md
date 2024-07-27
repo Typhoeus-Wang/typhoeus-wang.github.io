@@ -12,7 +12,7 @@ featured: false
 
 <!--author-->
 
-<!--projects-->
+<!--reseasrch-->
 
 
 
@@ -20,6 +20,10 @@ Welcome to my site!
 
 
 ## Introduction
+
+In my undergraduate study at UW, I'm fortunate to be advised by Shyam Gollakota. My main reseasrch interests include
+speech/audio 
+
 Start by reading the [Documentation]{:.heading.flip-title}.
 Specifically, the chapters below should be relevant now:
 
