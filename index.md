@@ -4,8 +4,9 @@ title: Welcome
 cover: true
 sitemap: false
 
-selected_projects：
+selected_projects:
   - _research/tce.md
+projects_page: research.md
 featured: false
 ---
 
