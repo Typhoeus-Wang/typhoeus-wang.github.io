@@ -5,7 +5,7 @@ cover: true
 sitemap: false
 
 selected_projects:
-  - _research/tce.md
+  - /projects/tce/
 projects_page: research.md
 featured: false
 ---
@@ -18,9 +18,8 @@ featured: false
 
 Welcome to my site!
 
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
 
-## First Steps, for real
+## Introduction
 Start by reading the [Documentation]{:.heading.flip-title}.
 Specifically, the chapters below should be relevant now:
 
