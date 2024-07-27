@@ -4,14 +4,12 @@ title: Welcome
 cover: true
 sitemap: false
 
-selected_posts:
-  - _posts/2017-05-03-javascripten.md
-  - /blog/2012-02-07-example-content/
-posts_page: /blog/
+selected_projects：
+  - _research/tce.md
 featured: false
 ---
 
-<!--author-->
+<!--projects-->
 
 
 
