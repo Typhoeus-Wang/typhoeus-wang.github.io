@@ -1,11 +1,12 @@
 ---
 layout: project
-title: 'Manifold Learning Example'
-caption: Manifold Learning Examples and their experiments
+title: 'Target Conversation Extraction'
+caption: Target Conversation Extraction, source separation using tuyn-taking dynamics
 description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 7 Jun 2024
+  Manifold Learning (ML) algorithms -- also called Embedding algorithms -- can help us 
+  interpret data with many dimensions (such as a cloud of word embeddings or of 
+  configurations of a molecule) by mapping it to 2D or to 3D where we can see it. 
+date: 7 Jan 2023
 image: 
   path: /assets/img/projects/qwtel.jpg
   srcset: 
@@ -14,7 +15,7 @@ image:
     480w:  /assets/img/projects/qwtel@0,25x.jpg
 links:
   - title: Link
-    url: https://tce.cs.washington.edu/
+    url: https://github.com/Typhoeus-Wang/manifold-learning-examples
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
