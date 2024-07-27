@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'Target Conversation Extraction'
-caption: Target Conversation Extraction, source separation using tuyn-taking dynamics
+title: 'Manifold Learning Example'
+caption: Manifold Learning Examples and their experiments
 description: >
   This is how I use Hydejack on my personal site. 
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
