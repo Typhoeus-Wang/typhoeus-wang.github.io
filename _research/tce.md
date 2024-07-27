@@ -8,11 +8,11 @@ description: >
   configurations of a molecule) by mapping it to 2D or to 3D where we can see it. 
 date: 7 Jan 2023
 image: 
-  path: /assets/img/projects/qwtel.jpg
+  path: /assets/img/research/tce.png
   srcset: 
-    1920w: /assets/img/projects/qwtel.jpg
-    960w:  /assets/img/projects/qwtel@0,5x.jpg
-    480w:  /assets/img/projects/qwtel@0,25x.jpg
+    1920w: /assets/img/research/tce.png
+    960w:  /assets/img/research/tce05.png
+    480w:  /assets/img/research/tce025.png
 links:
   - title: Link
     url: https://github.com/Typhoeus-Wang/manifold-learning-examples
