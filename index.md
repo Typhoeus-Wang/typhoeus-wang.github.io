@@ -18,3 +18,7 @@ Welcome to my site!
 In my undergraduate study at UW, I'm fortunate to be advised by Shyam Gollakota. My main reseasrch interests include
 speech/audio processing (end-to-end speech translation, source separation, speech representation learning), self-supervised learning, 
 NLP especially LLM, as well as recommendation system.
+
+## Recent Updates
+
+One paper got accepted to [InterSpeech 2024](https://interspeech2024.org/)
