@@ -8,7 +8,7 @@ description: >
   changes within a game theoretic model?
 date: 7 Apr 2024
 image: 
-  path: /assets/img/research/effectofadapation.png
+  path: /assets/img/research/effectofadapation.jpg
   srcset: 
     1920w: /assets/img/research/effectofadapation.jpg
     960w:  /assets/img/research/effectofadapation05.jpg

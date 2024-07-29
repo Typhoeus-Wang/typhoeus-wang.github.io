@@ -9,9 +9,9 @@ date: 7 Jun 2024
 image: 
   path: /assets/img/research/manifold.png
   srcset: 
-    1920w: /assets/img/research/manifold.png
-    960w:  /assets/img/research/manifold05.png
-    480w:  /assets/img/research/manifold025.png
+    1920w: /assets/img/research/manifold.jpg
+    960w:  /assets/img/research/manifold05.jpg
+    480w:  /assets/img/research/manifold025.jpg
 links:
   - title: Link
     url: https://tce.cs.washington.edu/
