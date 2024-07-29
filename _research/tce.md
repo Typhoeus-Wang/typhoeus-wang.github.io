@@ -6,7 +6,7 @@ description: >
   Manifold Learning (ML) algorithms -- also called Embedding algorithms -- can help us 
   interpret data with many dimensions (such as a cloud of word embeddings or of 
   configurations of a molecule) by mapping it to 2D or to 3D where we can see it. 
-date: 7 Jan 2023
+date: 7 Jun 2024
 image: 
   path: /assets/img/research/tce.jpg
   srcset: 

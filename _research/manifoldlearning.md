@@ -5,7 +5,7 @@ caption: Manifold Learning Examples and their experiments
 description: >
   This is how I use Hydejack on my personal site. 
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 7 Jun 2024
+date: 7 Jan 2023
 image: 
   path: /assets/img/research/manifold.png
   srcset: 
