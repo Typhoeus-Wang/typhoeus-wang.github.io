@@ -3,15 +3,14 @@
 layout: grid
 
 # The title of the tag's page.
-title: Hyde
+title: Dl
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: hyde
+slug: dl
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page. This is a Hyde test.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Deep learning (dl) category includes deep learning basics, toolkits, and practices.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
