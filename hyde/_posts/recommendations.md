@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example Content
+title: Recommendations
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  This post includes my recommended resources for AI and ML
 sitemap: false
 hide_last_modified: true
 ---
