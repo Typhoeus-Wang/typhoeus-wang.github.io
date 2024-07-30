@@ -14,21 +14,22 @@ invert_sidebar: true
 
 ## PyTorch Toolkit
 
-What's New in Hydejack 9.1?
+PyTorch is an open-source deep learning framework developed by Facebook's AI Research lab and has been widely
+used for research and production in various machine learning tasks, including computer vision, natural language processing, and reinforcement learning.
 
 * toc
 {:toc .large-only}
 
 
-## Stripe-ified Design
-Most elements now have rounded borders, making the design look more modern (dare I say "Stripe-ified") than ever before. 
+## Tensor Fundamentals
+In PyTorch, Tensors serve as a fundamental building block, enabling efficient numerical computations on various devices, such as CPUs, GPUs, and TPUs.
 
-The goal of Hydejack was always to provide a theme that looks "designed" combined the amenities of a typical Jekyll theme for coders.
-This is an important step in maintaining this goal.
-
-At the same time, I'm introducing nerdy elements like [breadcrumbs](#serp-breadcrumbs), that are almost ornamental in nature.
-You wouldn't find these on other Stripe-like designs, but I think they are appealing to developer types like myself. 
-Like most additions to Hydejack, they can be disabled via configuration. 
+#### Create Tensor
+Create a 1D tensor of size 10 with values from 1 to 10: 
+~~~python
+import torch
+X = torch.arange(0, 10)
+~~~
 
 
 ## Inverted Sidebars
