@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hydejack, Stripe-ified
+title: PyTorch Toolkit
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -8,11 +8,11 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  Version 9.1 provides minor design changes, new features, and closes multiple issues.
+  Useful PyTorch code snippets
 invert_sidebar: true
 ---
 
-# What's New in Hydejack 9.1?
+# PyTorch Tensor Basics
 
 What's New in Hydejack 9.1?
 
