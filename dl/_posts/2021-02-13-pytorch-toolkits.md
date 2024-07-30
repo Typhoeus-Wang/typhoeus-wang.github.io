@@ -1,14 +1,16 @@
 ---
 layout: post
 title: PyTorch Toolkit
-image: /assets/img/blog/jj-ying.jpg
-accent_image: 
-  background: url('/assets/img/blog/jj-ying.jpg') center/cover
-  overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
   Useful PyTorch code snippets
+image: 
+  path: /assets/img/blog/pt_blog.jpg
+  srcset:
+    1060w: /assets/img/blog/pt_blog.jpg
+    530w:  /assets/img/blog/pt_blog_50.jpg
+    265w:  /assets/img/blog/pt_blog_25.jpg
 invert_sidebar: true
 ---
 
