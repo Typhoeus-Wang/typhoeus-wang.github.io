@@ -18,7 +18,11 @@ hide_last_modified: true
 * toc
 {:toc .large-only}
 
+#### Deep Learning
+
 [Devinterview-io](https://devinterview.io/)
+
+[Dive into Deep Learning](https://d2l.ai/index.html)
 
 ### Heading 3
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
