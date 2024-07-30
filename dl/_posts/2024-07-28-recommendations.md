@@ -13,7 +13,10 @@ sitemap: false
 hide_last_modified: true
 ---
 
-## Machine Learning Interview Prep
+## Recommendations
+
+* toc
+{:toc .large-only}
 
 [Devinterview-io](https://devinterview.io/)
 

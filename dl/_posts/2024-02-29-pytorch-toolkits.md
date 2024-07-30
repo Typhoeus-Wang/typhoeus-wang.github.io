@@ -1,8 +1,6 @@
 ---
 layout: post
 title: PyTorch Toolkit
-accent_color: '#ccc'
-theme_color: '#ccc'
 description: >
   Useful PyTorch code snippets
 image: 
@@ -14,7 +12,7 @@ image:
 invert_sidebar: true
 ---
 
-# PyTorch Tensor Basics
+## PyTorch Toolkit
 
 What's New in Hydejack 9.1?
 
