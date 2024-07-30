@@ -19,7 +19,7 @@ invert_sidebar: true
 What's New in Hydejack 9.1?
 
 * toc
-{:toc}
+{:toc .large-only}
 
 
 ## Stripe-ified Design

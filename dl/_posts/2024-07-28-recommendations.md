@@ -3,6 +3,12 @@ layout: post
 title: Recommendations
 description: >
   This post includes my recommended resources for AI and ML
+image: 
+  path: /assets/img/blog/recommend.jpg
+  srcset:
+    1060w: /assets/img/blog/recommend.jpg
+    530w:  /assets/img/blog/recommend_50.jpg
+    265w:  /assets/img/blog/recommend_25.jpg
 sitemap: false
 hide_last_modified: true
 ---
