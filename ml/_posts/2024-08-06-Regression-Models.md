@@ -30,7 +30,7 @@ It is a supervised machine learning technique, used to predict the value of the 
 This is the simplest form of regression, where the relationship between the independent and dependent variables is assumed to be linear. The goal is to find the best-fitting line (or hyperplane in higher dimensions) that minimizes the difference between predicted and actual values.
 
 ### Data
-`y` is the response variable and `X` is the data matrix
+`y` is the response variable and `X` is the dependent variable in matrix format.
 
 $$
 y = \begin{vmatrix} y_1 \\ ... \\ y_n \end{vmatrix}， X = \begin{vmatrix} x_1^T \\ ... \\ x_n^T \end{vmatrix}$$
