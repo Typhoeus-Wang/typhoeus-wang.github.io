@@ -24,6 +24,10 @@ hide_last_modified: true
 
 [Dive into Deep Learning](https://d2l.ai/index.html)
 
+#### Recommendation System
+
+[Recommendation System - Shusen Wang](https://www.youtube.com/watch?v=5dTOPen28ts&list=PLvOO0btloRntAi-VnV06M1Bu0X1xljUUP)
+
 ### Heading 3
 Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
 
