@@ -18,7 +18,7 @@ hide_last_modified: true
 * toc
 {:toc .large-only}
 
-# What is Regression?
+## What is Regression?
 
 Regression is a statistical approach used to analyze the relationship between a dependent variable (target variable) and one or more independent variables (predictor variables). The objective is to determine the most suitable function that characterizes the connection between these variables.
 
@@ -33,15 +33,13 @@ This is the simplest form of regression, where the relationship between the inde
 `y` is the response variable and `X` is the data matrix
 
 $$
-y = \begin{vmatrix} y_1 \\ ... \\ y_n \end{vmatrix}， X = \begin{vmatrix} x_1^T \\ ... \\ x_n^T \end{vmatrix}
-$$
+y = \begin{vmatrix} y_1 \\ ... \\ y_n \end{vmatrix}， X = \begin{vmatrix} x_1^T \\ ... \\ x_n^T \end{vmatrix}$$
 
 ### Model
 The formula for the linear regression model is:
 
 $$
-y = Xw + \epsilon, \text{where} \  y \in \mathbb{R}^n, X \in \mathbb{R}^{n \cdot d}, \epsilon \in \mathbb{R}^n
-$$
+y = Xw + \epsilon, \text{where} \  y \in \mathbb{R}^n, X \in \mathbb{R}^{n \cdot d}, \epsilon \in \mathbb{R}^n $$
 
 where `d` is the number of features of the input, `n` is the number of datapoints
 
