@@ -35,6 +35,7 @@ $$
 #### Mean ($$ \mu_i $$)
 
 The mean vector for each Gaussian component $$ i $$, representing the center of the Gaussian distribution.
+
 $$
 \mu_i = \frac{\sum_{j=1}^N \gamma_{ij} x_j}{\sum_{j=1}^N \gamma_{ij}}
 $$
@@ -42,6 +43,7 @@ $$
 
 #### Covariances ($$ \Sigma_i $$)
 The covariance matrix for each Gaussian component, representing the spread and orientation of the Gaussian distribution in the feature space.
+
 $$
 \Sigma_i = \frac{\sum_{j=1}^N \gamma_{ij} (x_j - \mu_i)(x_j - \mu_i)^T}{\sum_{j=1}^N \gamma_{ij}}
 $$
@@ -50,6 +52,24 @@ $$
 #### Weights ($$ \pi_i $$)
 
 The mixing coefficients representing the weight of each Gaussian component in the mixture.
+
 $$
 \pi_i = \frac{\sum_{j=1}^N \gamma_{ij}}{N}
 $$
+
+## Fitting a GMM
+
+### Initialization
+
+### Expectation-Maximization (EM) Algorithm
+We use Expectation-Maximization (EM) algorithm to itera
+
+#### Expectation Step (E-Step)
+Calculate the probability that each data point belongs to each Gaussian component. We use the current estimates of the means, covariance, and weights.
+
+
+#### Maximization Step (M-Step)
+Update the parameters of the Gaussian components (means, covariances, and weights) to maximize the likelihood of the data given the current probabilities.
+
+#### Covergence:
+The algorithm iterates betwee nthe E-Step and M-Step until convergence, which is typically when chagnes in the log-likelihood or parameters are below a certain threshold.
