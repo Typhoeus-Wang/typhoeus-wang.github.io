@@ -62,7 +62,7 @@ $$
 ### Initialization
 
 ### Expectation-Maximization (EM) Algorithm
-We use Expectation-Maximization (EM) algorithm to itera
+We use Expectation-Maximization (EM) algorithm to iteratively improve the model fit. It is used to optimize different unsupervised machine learning algorithms and it consists 2 steps which are E-Step and M-Step.
 
 #### Expectation Step (E-Step)
 Calculate the probability that each data point belongs to each Gaussian component. We use the current estimates of the means, covariance, and weights.
