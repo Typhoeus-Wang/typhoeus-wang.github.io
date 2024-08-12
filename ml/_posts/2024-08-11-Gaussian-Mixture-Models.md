@@ -26,22 +26,30 @@ A Gaussian Mixture Models (GMM or Mixture of Gaussians) is a probabilitsitc mode
 K-means algorithm would typically assign each data to exactly one cluster, but what if these clusters are overlapping. In this case, we do not have enough information to tell which cluster are right or which cluster are dominating. In Gaussian mixture models, clusters are modeled as gaussian components which has its own mean and variance. In this case, we could assign each data to cluster with some probability. This approache gives probability model of data ("generate").
 
 ## Concepts of GMM
-- Mean ($$ \mu_i $$)
-    The mean vector for each Gaussian component $$ i $$, representing the center of the Gaussian distribution.
-    $$
-    \mu_i = \frac{\sum_{j=1}^N \gamma_{ij} x_j}{\sum_{j=1}^N \gamma_{ij}}
-    $$
+#### Responsibility ($$\gamma_{ij}$$)
+
+$$
+\gamma_{ij} = \frac{\pi_i \mathcal{N}(x_j \mid \mu_i, \Sigma_i)}{\sum_{k=1}^K \pi_k \mathcal{N}(x_j \mid \mu_k, \Sigma_k)}
+$$
+
+#### Mean ($$ \mu_i $$)
+
+The mean vector for each Gaussian component $$ i $$, representing the center of the Gaussian distribution.
+$$
+\mu_i = \frac{\sum_{j=1}^N \gamma_{ij} x_j}{\sum_{j=1}^N \gamma_{ij}}
+$$
 
 
-- Covariances ($$ \Sigma_i $$)
-    The covariance matrix for each Gaussian component, representing the spread and orientation of the Gaussian distribution in the feature space.
-    $$
-    \Sigma_i = \frac{\sum_{j=1}^N \gamma_{ij} (x_j - \mu_i)(x_j - \mu_i)^T}{\sum_{j=1}^N \gamma_{ij}}
-    $$
+#### Covariances ($$ \Sigma_i $$)
+The covariance matrix for each Gaussian component, representing the spread and orientation of the Gaussian distribution in the feature space.
+$$
+\Sigma_i = \frac{\sum_{j=1}^N \gamma_{ij} (x_j - \mu_i)(x_j - \mu_i)^T}{\sum_{j=1}^N \gamma_{ij}}
+$$
 
 
-- Weights ($$ \pi_i $$)
-     The mixing coefficients representing the weight of each Gaussian component in the mixture.
-     $$
-     \pi_i = \frac{\sum_{j=1}^N \gamma_{ij}}{N}
-     $$
+#### Weights ($$ \pi_i $$)
+
+The mixing coefficients representing the weight of each Gaussian component in the mixture.
+$$
+\pi_i = \frac{\sum_{j=1}^N \gamma_{ij}}{N}
+$$
