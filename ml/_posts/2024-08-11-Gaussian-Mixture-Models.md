@@ -3,12 +3,12 @@ layout: post
 title: Gaussian Mixture Models
 description: >
   Gaussian Mixture Models, updated at 11 Aug 2024
-# image: 
-#   path: /assets/img/blog/recommend.jpg
-#   srcset:
-#     1060w: /assets/img/blog/recommend.jpg
-#     530w:  /assets/img/blog/recommend_50.jpg
-#     265w:  /assets/img/blog/recommend_25.jpg
+image: 
+  path: assets/img/blog/gmm.png
+  srcset:
+    1060w: /assets/img/blog/gmm.png
+    530w:  /assets/img/blog/gmm_50.png
+    265w:  /assets/img/blog/gmm_25.png
 sitemap: false
 hide_last_modified: true
 ---
