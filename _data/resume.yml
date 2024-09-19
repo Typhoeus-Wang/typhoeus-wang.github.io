@@ -31,7 +31,7 @@ work:
     summary: >
       Working on speech processing project, specifically self-supervised learning in speech. Advised by Alexander Liu and James Glass.
     highlights:
-      - "In Progress. Knowledge distiallation of self-supervised learning model using Mamba architecture."
+      - "A Closer Look at Neural Codec Resynthesis: Bridging the Gap between Codec and Waveform Generation (Under Review NeurIPS 2024 workshop)"
   - company: "Mobile Intelligence Lab, University of Washington, Seattle"
     position: "Researcher Assistant"
     website: "https://netlab.cs.washington.edu/"
@@ -41,8 +41,8 @@ work:
       Working on speech processing projects including target speaker extraction, target conversation extraction and speech translation.
       Advised by Tuochao Chen and Shyam Gollakota
     highlights:
-      - "In Progress. Real-time Spatial Speech-to-speech Translation"
-      - "In Progress. Context-aware Target Speaker Extraction"
+      - "In Progress. Atypical Speech Translation"
+      - "Spatial speech translation: Translating across space with binaural hearables (Under Review CHI 2025)"
       - "Target Conversation Extraction: Source separation using turn-taking dynamics (InterSpeech 2024)"
   - company: "NetUp"
     position: "Part-Time Machine Learning Engineer"
