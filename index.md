@@ -19,6 +19,6 @@ In my undergraduate study at UW, I'm fortunate to be advised by Shyam Gollakota.
 speech/audio processing (end-to-end speech translation, source separation, speech representation learning), NLP, as well as recommendation system. 
 
 ## Recent Updates
-- Submitted one paper to [Audio Imagination: NeurIPS 2024 Workshop](https://www.audio-imagination.com/)
+- One paper accepted to [Audio Imagination: NeurIPS 2024 Workshop](https://www.audio-imagination.com/)
 - Submitted one paper to [CHI 2025](https://chi2025.acm.org/)
-- One paper got accepted to [InterSpeech 2024](https://interspeech2024.org/)
+- One paper accepted to [InterSpeech 2024](https://interspeech2024.org/)
