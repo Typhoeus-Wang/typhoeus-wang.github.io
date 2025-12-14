@@ -15,6 +15,10 @@ Welcome to my site!
 
 ## Introduction
 
+Updating my website.
+
+I'm Qirui (Will) Wang, a master student studying machine learning and speech processing at CMU.
+
 In my undergraduate study at UW, I'm fortunate to be advised by Shyam Gollakota. I'm currently working at Mobile Intelligence Lab at University of Washington, Seattle, with a focus on Human-computer Interaction and Speech Processing and I also work as a machine learning engineer at NetUp to build recommendation system. My main reseasrch interests include human-computer interaction
 speech/audio processing (end-to-end speech translation, source separation, speech representation learning), NLP, as well as recommendation system. 
 
