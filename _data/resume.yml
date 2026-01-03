@@ -5,33 +5,70 @@ basics:
   name: "Qirui(William) Wang"
   label: "ML/AI Researcher"
   picture: "/assets/img/resume_pic_240x240.jpg"
-  email: "qiruiwangwilliam@gmail.com"
+  email: "qiruiwangwork@gmail.com"
   phone: "(206) 849-2864"
   website: "https://typhoeus-wang.github.io/"
   summary: >
-    Hi, I'm Qirui Wang, a recent graduate from University of Washington, Seattle, majoring in computer science,
-    and Applied Computational Mathematical Science (data science track).
-    # Open `_data/resume.yml` to edit this text.
+    Hi, I'm Qirui Wang, a graduate student at Machine Learning Department from Carnegie Mellon University. I obtained my bachelor's degree from University of Washington, Seattle, majoring in computer science,
+    and Applied Computational Mathematical Science (data science track). 
   location:
-    address: "4550 11th Ave NE"
-    postalCode: "WA 98105"
-    city: "Seattle"
+    address: "2984 Sidney ST"
+    postalCode: "PA 15203"
+    city: "Pittsburgh"
     countryCode: "US"
-    region: "Washington"
+    region: "Pennsylvania"
   profiles:
     - network: "LinkedIn"
       username: "Qirui Wang"
       url: "https://www.linkedin.com/in/qrw-160509207/"
+
 work:
+  - company: "Carnegie Mellon University"
+    position: "Graduate Research Assistant"
+    website: "https://leililab.github.io/"
+    startDate: "2025-08-25"
+    endDate: ""
+    summary: >
+      Working on speech translation project. Advised by Lei Li and Siqi Ouyang
+    highlights:
+      - "Simultaneous Speech translation"
+
+  - company: "Smule, Inc"
+    position: "Research Intern"
+    website: "https://www.smule.com/"
+    startDate: "2025-06-03"
+    endDate: "2025-08-25"
+    summary: >
+      Smule is the leading social music app company, with over 60 million monthly active users worldwide.
+    highlights:
+      - "Pre-trained Conformer and ConvNet models for Music Information Retrieval with pseudo-labels from 5 expert models"
+      - "Built multi-GPU PyTorch training pipeline with gradient accumulation and mixed precision, achieving 2.8x speedup"
+      - "Conducted linear probing evaluations and achieved F1 score of 0.69 on beat tracking and 0.8 on pitch classification"
+
+  - company: "Hydrox AI"
+    position: "AI Research Intern"
+    website: "https://www.hydrox.ai/"
+    startDate: "2025-02-25"
+    endDate: "2025-06-30"
+    summary: >
+      Hydrox AI provides an end-to-end platform for AI Security, LLM Firewall, and AI Governance — ensuring safe AI deployment and compliance.
+    highlights:
+      - "Designed and implemented sparse autoencoders for adversarial activation extraction using 100K text adversarial samples"
+      - "Optimized adversarial activations between text and audio modalities and achieved 70%+ attack success rate using"
+      - "Utilized BigVGAN v2.4 to synthesize 7000 adversarial audios for Speech LLM (Qwen 2.5-omni) safety evaluation"
+
   - company: "Spoken Language System, MIT"
     position: "Visiting Researcher"
     website: "https://groups.csail.mit.edu/sls/"
     startDate: "2024-02-25"
-    endDate: ""
+    endDate: "2025-02-25"
     summary: >
-      Working on speech processing project, specifically self-supervised learning in speech. Advised by Alexander Liu and James Glass.
+      Collaborated with researchers from NTU, UCB and MIT to develop a benchmark for full-duplex spoken language model. Advised by Alexander Liu and Guan-ting Lin. 
     highlights:
-      - "A Closer Look at Neural Codec Resynthesis: Bridging the Gap between Codec and Waveform Generation (Under Review NeurIPS 2024 workshop)"
+      - "Full-duplex-bench v1. 5: Evaluating overlap handling for full-duplex speech models, (under review)"
+      - "Full-duplex-bench: A benchmark to evaluate full-duplex spoken dialogue models on turn-taking capabilities, (ASRU 2025)"
+      - "A Closer Look at Neural Codec Resynthesis: Bridging the Gap between Codec and Waveform Generation, (NeurIPS 2024 workshop)"
+
   - company: "Mobile Intelligence Lab, University of Washington, Seattle"
     position: "Researcher Assistant"
     website: "https://netlab.cs.washington.edu/"
@@ -41,9 +78,10 @@ work:
       Working on speech processing projects including target speaker extraction, target conversation extraction and speech translation.
       Advised by Tuochao Chen and Shyam Gollakota
     highlights:
-      - "In Progress. Atypical Speech Translation"
-      - "Spatial speech translation: Translating across space with binaural hearables (Under Review CHI 2025)"
-      - "Target Conversation Extraction: Source separation using turn-taking dynamics (InterSpeech 2024)"
+      - "Atypical Speech Translation, automatic speech recognition for atypical speech"
+      - "Spatial speech translation: Translating across space with binaural hearables, (CHI 2025)"
+      - "Target Conversation Extraction: Source separation using turn-taking dynamics, (InterSpeech 2024)"
+
   - company: "NetUp"
     position: "Part-Time Machine Learning Engineer"
     website: "https://www.netup.social/en"
@@ -56,6 +94,7 @@ work:
       - "Lead and design a recommendation system (idea from TinVec) and tested it using synthetic user history data"
       - "Built an ETL to transfer user interaction data stored in DynamoDB and EC2 to prepared periodic training dataset"
       - "Deployed recommendation system to Sagemaker and employed Lambda to trigger model update"
+
   - company: "USAFacts"
     position: "Software Engineering Internship"
     website: "https://usafacts.org/"
@@ -71,6 +110,7 @@ work:
       - "Deployed API to Azure with Docker and used Github actions as CI/CD to support continuous deployment"
       - "Scraped text data over 1000 webpages using BeautifulSoup and deployed serverless function to Azure Function"
       - "Stored the scraped data in PostgreSQL and populate Cognitive Search vector database for QA in batches"
+
   - company: "Lilian Ratliff's Group, University of Washington, Seattle"
     position: "Researcher Assistant"
     website: "https://faculty.washington.edu/ratliffl/"
@@ -80,6 +120,7 @@ work:
       Working on human-machine coadaption. Advised by Ben Chasnov, Jason Isa, Sam Burden, and Lilian Ratliff
     highlights:
       - "Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game"
+
   - company: "Gemoetric Data Analysis, University of Washington, Seattle"
     position: "Researcher Assistant"
     website: "https://sites.stat.washington.edu/mmp/"
@@ -90,7 +131,8 @@ work:
     highlights:
       - "Manifold Learning Examples"
       - "Dimension reduction alrithms: Locality Linear Embedding, Spectral Embedding, UMAP, T-SNE, megaman"
-volunteer:
+
+Volunteer:
   - organization: "University of Washington, Seattle"
     position: "Undergraduate Teaching Assistant"
     website: "https://www.cenuw.com/"
@@ -103,6 +145,8 @@ volunteer:
       - "Autumn 2022: TA for CSE414 (for non-CSE majors) with Ryan Maas"
       - "Winter 2024: TA for CSE414 (for non-CSE majors) with Ryan Maas"
       - "Spring 2024: TA for CSE414 (for non-CSE majors) with Dan Suciu"
+  
+Leadership:
   - organization: "China Entrepreneur Network, UW"
     position: "Event Planning Director"
     website: "https://www.cenuw.com/"
