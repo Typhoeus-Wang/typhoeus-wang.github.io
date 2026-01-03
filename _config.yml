@@ -58,8 +58,8 @@ menu:
   #   url:               /blog/
   - title:             Research
     url:               /research/
-  # - title:             Projects
-  #   url:               /projects/
+  - title:             Projects
+    url:               /projects/
   - title:             Résumé*
     url:               /resume/
   # - title:             Documentation
