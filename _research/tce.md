@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: research
 title: 'Target Conversation Extraction'
 caption: Target Conversation Extraction, source separation using tuyn-taking dynamics
 description: >

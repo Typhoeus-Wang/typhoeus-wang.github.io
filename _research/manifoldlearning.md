@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: research
 title: 'Manifold Learning Example'
 caption: Manifold Learning Examples and their experiments
 description: >

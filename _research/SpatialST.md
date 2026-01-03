@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: research
 title: 'Spatial Speech Translation'
 caption: Spatial speech translation is an intelligent hearable system that translates speakers in the wearer’s auditory space, preserving the direction and unique voice characteristics of each speaker in the binaural output.
 description: >
