@@ -6,11 +6,11 @@ description: >
   "Spatial speech translation" is an intelligent hearable system that translates speakers in the wearer’s auditory space, preserving the direction and unique voice characteristics of each speaker in the binaural output.
 date: 26 April 2025
 image: 
-  path: /assets/img/research/manifold.png
+  path: /assets/img/research/spatialst.png
   srcset: 
-    1920w: /assets/img/research/manifold.jpg
-    960w:  /assets/img/research/manifold05.jpg
-    480w:  /assets/img/research/manifold025.jpg
+    1920w: /assets/img/research/spatialst.png
+    960w:  /assets/img/research/spatialst.png
+    480w:  /assets/img/research/spatialst.png
 links:
   - title: Link
     url: https://tce.cs.washington.edu/
