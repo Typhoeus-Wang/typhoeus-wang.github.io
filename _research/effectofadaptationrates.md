@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: research
 title: 'Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game'
 caption: Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game
 description: >
