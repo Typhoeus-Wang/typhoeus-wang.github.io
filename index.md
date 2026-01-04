@@ -20,6 +20,7 @@ I am passionate about speech/audio/music AI and HCI, where I have worked on all 
 
 
 ## Recent Updates
-- One paper accepted to [Audio Imagination: NeurIPS 2024 Workshop](https://www.audio-imagination.com/)
-- Submitted one paper to [CHI 2025](https://chi2025.acm.org/)
-- One paper accepted to [InterSpeech 2024](https://interspeech2024.org/)
+- Looking for internship opportunities in Speech/audio/music AI in summer 2026!
+- Started graduate study in Machine Learning Department at Carnegie Mellon University
+- Full-duplex-bench got accepetd to [ASRU 2025](https://2025.ieeeasru.org/)
+- Spatial Speech Translation got accepted to [CHI 2025](https://chi2025.acm.org/)
