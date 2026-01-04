@@ -12,8 +12,8 @@ basics:
     Hi, I'm Qirui Wang, a graduate student at Machine Learning Department from Carnegie Mellon University. I obtained my bachelor's degree from University of Washington, Seattle, majoring in computer science,
     and Applied Computational Mathematical Science (data science track). 
   location:
-    address: "2984 Sidney ST"
-    postalCode: "PA 15203"
+    # address: "2984 Sidney ST"
+    # postalCode: "PA 15203"
     city: "Pittsburgh"
     countryCode: "US"
     region: "Pennsylvania"
